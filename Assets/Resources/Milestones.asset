@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!49 &4900000
+TextAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Milestones
+  m_Script: '{"0":[{"MilestoneReward":{"Key":0,"Value":5.0},"Number":1,"MissionsTarget":2},{"MilestoneReward":{"Key":1,"Value":1.0},"Number":2,"MissionsTarget":4},{"MilestoneReward":{"Key":2,"Value":1.0},"Number":3,"MissionsTarget":6},{"MilestoneReward":{"Key":0,"Value":20.0},"Number":4,"MissionsTarget":8},{"MilestoneReward":{"Key":0,"Value":25.0},"Number":5,"MissionsTarget":10}]}'

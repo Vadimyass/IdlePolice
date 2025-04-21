@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed2619a750b74c30a626722611d52db7, type: 3}
+  m_Name: TutorialConfig
+  m_EditorClassIdentifier: 
+  _tutorialData:
+  - tutorialType: 1
+    _tutorialType:
+      GuidAssignmentFailed: 0
+      GUID: a9d4446e107d4334b39f3f0a5a6cb550
+      _typeNameAndAssembly: Tutorial.WelcomeTutorial, Assembly-CSharp
+      _suppressLogs: 0
+  - tutorialType: 2
+    _tutorialType:
+      GuidAssignmentFailed: 0
+      GUID: a905bd76879d425d9f0986e9a059fe0e
+      _typeNameAndAssembly: Tutorial.DistrictTutorial, Assembly-CSharp
+      _suppressLogs: 0
+  - tutorialType: 3
+    _tutorialType:
+      GuidAssignmentFailed: 0
+      GUID: f15687376bd743558b370e7d8be377e6
+      _typeNameAndAssembly: Tutorial.UpgradeTutorial, Assembly-CSharp
+      _suppressLogs: 0
+  - tutorialType: 4
+    _tutorialType:
+      GuidAssignmentFailed: 0
+      GUID: 362db95c6a524cfebc433c84da70053b
+      _typeNameAndAssembly: Tutorial.GachaTutorial, Assembly-CSharp
+      _suppressLogs: 0
+  - tutorialType: 5
+    _tutorialType:
+      GuidAssignmentFailed: 0
+      GUID: 891a276d33d8413db6f44644e4429b83
+      _typeNameAndAssembly: Tutorial.NewBaseTutorial, Assembly-CSharp
+      _suppressLogs: 0

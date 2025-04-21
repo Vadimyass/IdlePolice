@@ -1,0 +1,33 @@
+using System;
+using UniRx;
+using UnityEngine;
+
+namespace Tutorial
+{
+    public class TutorialFingerTapAnimationEventsController : MonoBehaviour
+    {
+        [SerializeField] private ParticleSystem _roundParticle;
+        
+        public BoolReactiveProperty IsSpinBtnHold { get; private set; }
+
+        private void Awake()
+        {
+            IsSpinBtnHold = new BoolReactiveProperty(false);
+        }
+
+        public void EmitRoundParticle() 
+        {
+            _roundParticle.Emit(1);       
+        }
+
+        public void OnStartSpinButtonHold()
+        {
+            IsSpinBtnHold.Value = true;
+        }
+
+        public void OnStopSpinButtonHold()
+        {
+            IsSpinBtnHold.Value = false;
+        }
+    }
+}

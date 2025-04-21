@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: abd1c446d595f0245a9b12ccbb2fd906
+  m_SerializeEntries:
+  - m_GUID: 084a0702ffad79e409fb892b9bc387dd
+    m_Address: Assets/UI/Prefabs/Elements/CheatButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09d1162932c76894589de148368f4afb
+    m_Address: Assets/Gameplay/Prefabs/Levels/Level2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 272dc310643df4180942e2cbab8c1daf
+    m_Address: Assets/UI/Huds/Prefab/BuildingHudContainer(Clone).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30985e6256e5e1641a73da685fdda4d7
+    m_Address: Assets/UI/Prefabs/DialogWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bd7d9fafabd0504b94a935dd7735842
+    m_Address: Assets/UI/Prefabs/MainScreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 434f0a20f5f494a4ab69d40ac29dd130
+    m_Address: Assets/UI/Prefabs/GachaBoxOpenWidget.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e0f712ac687ca143988c1fbcdc0d78b
+    m_Address: Assets/UI/Prefabs/MilestoneWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66f5e72500828414e8a04bdc70a93144
+    m_Address: Assets/UI/Prefabs/GachaBoxWidget.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6feb04bf15eae574ebd836e5e12f56cf
+    m_Address: Assets/UI/Prefabs/LoadingScreen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79f2967c6df809a4eb83b234b4f1820f
+    m_Address: Assets/Gameplay/Prefabs/Levels/Level1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 851efbc53a663e3469fbcbc9608c6a2e
+    m_Address: Assets/UI/Prefabs/TravelWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b72d8f9af1bff244b956505dde3e892
+    m_Address: Assets/UI/Prefabs/CheatWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c7a663062e40d948823c0cb95ae7b62
+    m_Address: Assets/UI/Prefabs/ShopWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a5116eb179ed479e8427cdd9838914b
+    m_Address: Assets/UI/Huds/Prefab/DispatchCenterHud.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7a6c98309705f945a48e87e96d7d5b7
+    m_Address: Assets/UI/Prefabs/OfficerChoiseWidget.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afe87f62d19132a458518caa5b22f6d3
+    m_Address: Assets/UI/Prefabs/Elements/Tutorial Hand.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6283a8b4a333ab43ad33c2d4d36c503
+    m_Address: Assets/UI/Prefabs/UpgradesWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baee0ef90680c014cad55482af10f82e
+    m_Address: Assets/UI/Prefabs/OfficerWidget.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c17e7d148fc954e4096ade7d6b29c01c
+    m_Address: Assets/Gameplay/Prefabs/Levels/Level3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8b01d48e33fb8b4d8b8909db7eb8ede
+    m_Address: Assets/UI/Prefabs/UpgradeWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef551a2902b70a54d9abf281a536ba26
+    m_Address: Assets/UI/Prefabs/ChoseLevelWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f02fa32fccb6e7d439697daa1c185f94
+    m_Address: Assets/UI/Prefabs/OfficersWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 41db38cc54361fe4d849505f8a342af3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 183a1bb8cdb6b6044a5e9ba8deaf79f0, type: 2}
+    - {fileID: 11400000, guid: f51b3fb1a4f72d047b69e2347f8c4462, type: 2}

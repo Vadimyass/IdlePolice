@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 966075d0a2334878ad1da16e0d31a4a6, type: 3}
+  m_Name: ParticleConfig
+  m_EditorClassIdentifier: 
+  _particlesDictionary:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+    _keys: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+    _values:
+    - Particle: {fileID: 2628481656254033967, guid: b056217ceb2c3f742958af5080fd981c, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198586439706424864, guid: 0e56aef02a6fcc6408400ea7c75e13a7, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198533653044838976, guid: b46264f9e12caed4cb53e7c2ad64aa54, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 1885704474084404884, guid: d3514a4b2f3a8294095e81ae295e8b34, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 6078525160530846450, guid: ff32f1e760e8758488d9b3707897004e, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 9014509066582130423, guid: 2264cad28b8379e4c82bc381b00de119, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198109754318447844, guid: 8adc0c8cd58b43f4bbb7e7a3899cf385, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198583502518672704, guid: 0984a3bc059c5c34fa15a0682ca5b24f, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198856191226466010, guid: 700fb753575520c4683d2f3be8f18d1a, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198583502518672704, guid: 0984a3bc059c5c34fa15a0682ca5b24f, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198290185897259954, guid: 55c7caedf64d935419e00dac831d338a, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 1245405227608448777, guid: f1e30bf4ffcc6314e893d6f6c63cc485, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 518263130842681198, guid: 6d247069e1203804fa8e7a3516aee2a2, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 3551866806884940473, guid: 42f3aa7cfdcdb02478538fbf918f32b0, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 2650248091233870122, guid: 1aa4e607645937e408de4a37164aca90, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 3081387613491859128, guid: 827d8d66227e7ce47831f6d8a1f03dec, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 7731804639858457933, guid: c681b224066eebe42a45e4497743753b, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 130711300671530287, guid: 149c435520b9a7345bb2e0c5da56008d, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 5408534335959164775, guid: 85cf436f53afc7e4ca6389bedb34d788, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198587703769245278, guid: c7f93a0255162fd47bbe40874f339bf4, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 7289459582716331382, guid: 12e611dc26aedbf489ff72a52c777da6, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 2858703777158454107, guid: 9bae62e599764df4e90255d83635fbd1, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 8345720622549114424, guid: 1ca37b3342c01b749a52a9e7394863aa, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198121459679799664, guid: 05f7c156786bd024e8da3bb1a4b8aa09, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 1245405227608448777, guid: 645c962b3c7666d41af5ec543a0a6482, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198835972586501196, guid: 72a652ab7835362499c9686288610212, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 6082267687173428766, guid: 6e36253f7fda81a49927a3b0b6db36ba, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 3499142445441415456, guid: 1153c17361d7fc84fa331145f15987ae, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 7389947116252710443, guid: e5fec26fa516e7c418ee4fa43612c2e4, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 8685346777099598879, guid: 62d796f0bbadca443aa714240fe9961c, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 1026111213366906535, guid: fc35054125d064f4e83801a95e633ab2, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 5340634845910525117, guid: 7d5ed9adf6f43514c8b50c1294456af0, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 7121090005461022409, guid: 03ffd75f8b0b0fc448ee352102053de1, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 2315122966671601409, guid: 67afc88f012a508469fcff2626a271c8, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 3539503073381860870, guid: 83c216a318b3ccb4ca39d0c66f4c33f0, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 8737235718597047373, guid: d981eabaeaed8b147b73bc456fbc9bce, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 8737235718597047373, guid: 4e1e02ae286a28f4aa54b4942a95c245, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}
+    - Particle: {fileID: 198109754318447844, guid: 0f6dabe7cc0b74bc7869a5b13455d6e5, type: 3}
+      ChangebleColor: 0
+      Color: {r: 0, g: 0, b: 0, a: 0}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c62d1453041a46e2851937d3ee87d302, type: 3}
+  m_Name: CheatConfig
+  m_EditorClassIdentifier: 
+  cheatData:
+  - cheatItemType:
+      GuidAssignmentFailed: 0
+      GUID: f60d74ec27c94ca8952c62d3f03d818a
+      _typeNameAndAssembly: Gameplay.Scripts.CheatManager.Cheats.TestCheat, Assembly-CSharp
+      _suppressLogs: 0
+  - cheatItemType:
+      GuidAssignmentFailed: 0
+      GUID: 6a4bf6c615c3483280ffbc840924dd54
+      _typeNameAndAssembly: Gameplay.Scripts.CheatManager.Cheats.AddCurrencyCheat,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - cheatItemType:
+      GuidAssignmentFailed: 0
+      GUID: d12c98d321f342058b05b8992f20f524
+      _typeNameAndAssembly: Gameplay.Scripts.CheatManager.Cheats.ChangeTimeScale,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - cheatItemType:
+      GuidAssignmentFailed: 0
+      GUID: b19ad9212c804c2b871ad4d4dfcd2389
+      _typeNameAndAssembly: Gameplay.Scripts.CheatManager.Cheats.DisableSavingCheat,
+        Assembly-CSharp
+      _suppressLogs: 0

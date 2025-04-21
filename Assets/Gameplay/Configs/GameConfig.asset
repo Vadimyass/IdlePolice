@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 739bfc58a051d4789ab3882ccab6063a, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  _sheetId: 2PACX-1vSGJ_u7pVfBce4l3HSdzoFWWC6QOz5NX9kOv9GkLqWZXmn1nQbpmk5_GmmA1vSUEMwOjg7rC_7KWQ93
+  _sheets:
+  - Name: Upgrades
+    GID: 1092214661
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: a32cfcbf593fba440b3856c5643cc96b
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: b187cb9bde1cb114ea5dfc0e8da16ca4
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: UpgradeBase
+    GID: 1856335225
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 44a21aedbb0c4a42adeb34a7a08dce85
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeBaseParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: e31497f9aa814c70b15f5762ef62f278
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeBaseConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: OfficersLevels
+    GID: 151200002
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 9ff7a9093f51445abd00a3011c23cab5
+      _typeNameAndAssembly: Gameplay.Configs.OfficersLevelParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: 18e07f0b8a8a434b9290e7c42311b9db
+      _typeNameAndAssembly: Gameplay.Configs.OfficersLevelsInfoConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: OfficersInfo
+    GID: 2038521865
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 523dfb778dcb4451a6e44a115e16de7c
+      _typeNameAndAssembly: Gameplay.Configs.OfficersInfoParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: 47bc24961a1f4ff38a417ba9c7988b94
+      _typeNameAndAssembly: Gameplay.Configs.OfficersInfoConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Criminals
+    GID: 1426063890
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 76a77bb1d9c44234b466ee19e13e8009
+      _typeNameAndAssembly: Gameplay.Configs.CriminalsParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: b80d77e4762a40298c0fb72289c80ffa
+      _typeNameAndAssembly: Gameplay.Configs.CriminalsConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Economy
+    GID: 128002114
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 7d823b855f124fb781bdc9488b0c3c74
+      _typeNameAndAssembly: Gameplay.Configs.DefaultParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: ed09cf5f82694530a35b13cbefd4aab8
+      _typeNameAndAssembly: Gameplay.Configs.EconomyConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Missions
+    GID: 1884922735
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: dbd058f9de994c109b1d125cc964d0c3
+      _typeNameAndAssembly: Gameplay.Configs.MissionsParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: 16dc9020854047f0b792de1a7dd32fba
+      _typeNameAndAssembly: Gameplay.Configs.MissionsConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Milestones
+    GID: 1688179790
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 8aa84c1ec69d4ea7834f6ed2ac5ee2be
+      _typeNameAndAssembly: Gameplay.Configs.MilestonesParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: 0c413f87914a40858ad87db6d1183e79
+      _typeNameAndAssembly: Gameplay.Configs.MilestonesConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: DotsUnlock
+    GID: 214793576
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 4fbe1d2f95d948fea13c757e2d923ce9
+      _typeNameAndAssembly: Gameplay.Configs.DotsUnlockParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: ce51da71b45843b2bfa46dd36f9ec898
+      _typeNameAndAssembly: Gameplay.Configs.DotsUnlockConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Boxes
+    GID: 1354626777
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 78035272104e4992b4dbfddb8c89c19b
+      _typeNameAndAssembly: Gameplay.Configs.BoxesInfoParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: 70962833e86245b3972d06d9c51f34d0
+      _typeNameAndAssembly: Gameplay.Configs.BoxesInfoConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: UpgradeBase2
+    GID: 1404743870
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 44a21aedbb0c4a42adeb34a7a08dce85
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeBaseParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: e31497f9aa814c70b15f5762ef62f278
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeBaseConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: UpgradeBase3
+    GID: 1472223352
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: 44a21aedbb0c4a42adeb34a7a08dce85
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeBaseParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: e31497f9aa814c70b15f5762ef62f278
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeBaseConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Upgrades2
+    GID: 2044636134
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: a32cfcbf593fba440b3856c5643cc96b
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: b187cb9bde1cb114ea5dfc0e8da16ca4
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: Upgrades3
+    GID: 1977626110
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: a32cfcbf593fba440b3856c5643cc96b
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: b187cb9bde1cb114ea5dfc0e8da16ca4
+      _typeNameAndAssembly: Gameplay.Configs.UpgradeConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  - Name: DialogueConfig
+    GID: 938735853
+    Parser:
+      GuidAssignmentFailed: 0
+      GUID: aa79d1b6fcad48c196cb1f5604887556
+      _typeNameAndAssembly: Gameplay.Configs.DialoguesParser, Assembly-CSharp
+      _suppressLogs: 0
+    Config:
+      GuidAssignmentFailed: 0
+      GUID: 7da19aafe7334f83906b536ed5db1c0e
+      _typeNameAndAssembly: UI.Scripts.DialogWindow.DialogueConfig, Assembly-CSharp
+      _suppressLogs: 0
+    OverridedCsv: {fileID: 0}
+  _items:
+  - CriminalName: 0
+    CriminalIcon: 18
+    CriminalTime: 40

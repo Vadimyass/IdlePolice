@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8ed3e297bb04b8fa2ee762415d4e8ac, type: 3}
+  m_Name: UIConfig
+  m_EditorClassIdentifier: 
+  _uiScreens:
+  - Prefab:
+      m_AssetGUID: e8b01d48e33fb8b4d8b8909db7eb8ede
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: d3c8227a1ecb4d189d7744413c668885
+      _typeNameAndAssembly: UI.Scripts.UpgradeBuildingWindow.UpgradeBuildingWindowController,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: b6283a8b4a333ab43ad33c2d4d36c503
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 4858e104dbfc8b14a98580eb5e35713f
+      _typeNameAndAssembly: UI.Scripts.UpgradeWindow.UpgradeWindowController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 3bd7d9fafabd0504b94a935dd7735842
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 038c5aec12674a958283311e844a262c
+      _typeNameAndAssembly: UI.Scripts.MainScreen.MainScreenController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: baee0ef90680c014cad55482af10f82e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: d087882aeb45b1d4cb225dc2c3afa169
+      _typeNameAndAssembly: UI.Scripts.OfficerInfoWidget.OfficerInfoWidgetController,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: f02fa32fccb6e7d439697daa1c185f94
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 047a40020034d804e96c633c24ed4a87
+      _typeNameAndAssembly: UI.Scripts.OfficersWindow.OfficersWindowController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: a7a6c98309705f945a48e87e96d7d5b7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: d9393dd3d4c521c49b8e5d1c5b0d2edb
+      _typeNameAndAssembly: UI.Scripts.OfficerChoiceWidget.OfficerChoiceWidgetController,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 5e0f712ac687ca143988c1fbcdc0d78b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 47701ffdcd84d624d9fb41a32de937c7
+      _typeNameAndAssembly: UI.Scripts.MilestoneWindow.MilestoneWindowController,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: ef551a2902b70a54d9abf281a536ba26
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 172a4689f1ffa374aac28627917fee3c
+      _typeNameAndAssembly: UI.Scripts.ChoseLevelWindow.ChoseLevelWindowController,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 8c7a663062e40d948823c0cb95ae7b62
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 2a3244083c4542f4a6226b2b961afeea
+      _typeNameAndAssembly: UI.Scripts.ShopWindow.ShopWindowController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 434f0a20f5f494a4ab69d40ac29dd130
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 79df51ffdef84ff394a26f61d4b2a189
+      _typeNameAndAssembly: UI.Scripts.GachaBoxOpenWindow.GachaBoxOpenWindowController,
+        Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 66f5e72500828414e8a04bdc70a93144
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 76664d14a8a74c50a60adb515da64cd2
+      _typeNameAndAssembly: UI.Scripts.GachaBoxWidget.GachaBoxWidgetController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: ef551a2902b70a54d9abf281a536ba26
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 65da29b1b500460caebcdc1e56812247
+      _typeNameAndAssembly: UI.Scripts.OfferWindow.OfferWindowController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 6feb04bf15eae574ebd836e5e12f56cf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 4e6874a598b913f4da1941cdb01bdcef
+      _typeNameAndAssembly: UI.Scripts.LoadingScreen.LoadingScreenController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 851efbc53a663e3469fbcbc9608c6a2e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 16ed5c9c98ace0e438706aed4cd0a2d3
+      _typeNameAndAssembly: UI.Scripts.TravelWindow.TravelWindowController, Assembly-CSharp
+      _suppressLogs: 0
+  - Prefab:
+      m_AssetGUID: 30985e6256e5e1641a73da685fdda4d7
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    ClassReference:
+      GuidAssignmentFailed: 0
+      GUID: 0187e16ad5d44ec4836b2b3988f7cd5c
+      _typeNameAndAssembly: UI.Scripts.DialogWindow.DialogWindowController, Assembly-CSharp
+      _suppressLogs: 0

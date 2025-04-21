@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!49 &4900000
+TextAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpgradeBase3
+  m_Script: "[{\"Key\":\"Criminals + 3_1\",\"Name\":\"Criminals + 1\",\"Cost\":5.0,\"BuildingKey\":0,\"SpriteName\":23,\"AdditiveValue\":{\"Crimes\":1.0},\"Description\":\"Expand
+    surveillance zones\",\"DistrictNeed\":1},{\"Key\":\"Speed +150%_1\",\"Name\":\"Speed
+    +150%\",\"Cost\":100.0,\"BuildingKey\":0,\"SpriteName\":24,\"AdditiveValue\":{\"Car_speed\":1.2},\"Description\":\"Upgrade
+    engines\",\"DistrictNeed\":1},{\"Key\":\"Arrest income X2_1\",\"Name\":\"Arrest
+    income X2\",\"Cost\":500.0,\"BuildingKey\":1,\"SpriteName\":25,\"AdditiveValue\":{\"Building_income_multiplier\":2.0},\"Description\":\"Raise
+    fines\",\"DistrictNeed\":1},{\"Key\":\"Crimes refresh spead X2_1\",\"Name\":\"Crimes
+    refresh spead X2\",\"Cost\":1200.0,\"BuildingKey\":0,\"SpriteName\":26,\"AdditiveValue\":{\"Crimes_refresh_rate\":2.0},\"Description\":\"Expand
+    dispatch team\",\"DistrictNeed\":1},{\"Key\":\"Speed +150%_2\",\"Name\":\"Speed
+    +150%\",\"Cost\":3000.0,\"BuildingKey\":0,\"SpriteName\":24,\"AdditiveValue\":{\"Car_speed\":1.2},\"Description\":\"Pump
+    up tires\",\"DistrictNeed\":1},{\"Key\":\"Police Station Income X2_1\",\"Name\":\"Police
+    Station Income X2\",\"Cost\":6000.0,\"BuildingKey\":2,\"SpriteName\":27,\"AdditiveValue\":{\"Building_income_multiplier\":2.0},\"Description\":\"Streamline
+    paperwork\",\"DistrictNeed\":1},{\"Key\":\"Criminals + 5_2\",\"Name\":\"Criminals
+    + 2\",\"Cost\":19000.0,\"BuildingKey\":0,\"SpriteName\":23,\"AdditiveValue\":{\"Crimes\":2.0},\"Description\":\"Expand
+    911 Capacity\",\"DistrictNeed\":2},{\"Key\":\"Criminals + 6_3\",\"Name\":\"Criminals
+    + 3\",\"Cost\":45700.0,\"BuildingKey\":0,\"SpriteName\":23,\"AdditiveValue\":{\"Crimes\":3.0},\"Description\":\"Deploy
+    More Cameras\",\"DistrictNeed\":2},{\"Key\":\"Arrest income X3_2\",\"Name\":\"Arrest
+    income X3\",\"Cost\":67000.0,\"BuildingKey\":1,\"SpriteName\":25,\"AdditiveValue\":{\"Building_income_multiplier\":3.0},\"Description\":\"New
+    batons\",\"DistrictNeed\":2},{\"Key\":\"Speed +150%_3\",\"Name\":\"Speed +150%\",\"Cost\":98000.0,\"BuildingKey\":0,\"SpriteName\":24,\"AdditiveValue\":{\"Car_speed\":1.2},\"Description\":\"\u0421hange
+    the oil\",\"DistrictNeed\":2},{\"Key\":\"Crimes refresh spead X2.5_2\",\"Name\":\"Crimes
+    refresh spead X2.5\",\"Cost\":140000.0,\"BuildingKey\":0,\"SpriteName\":26,\"AdditiveValue\":{\"Crimes_refresh_rate\":2.5},\"Description\":\"Add
+    emergency operators\",\"DistrictNeed\":2},{\"Key\":\"Police Station Income X3_2\",\"Name\":\"Police
+    Station Income X3\",\"Cost\":213000.0,\"BuildingKey\":2,\"SpriteName\":27,\"AdditiveValue\":{\"Building_income_multiplier\":3.0},\"Description\":\"Create
+    fingerprint database\",\"DistrictNeed\":2},{\"Key\":\"Criminals + 7_4\",\"Name\":\"Criminals
+    + 4\",\"Cost\":338000.0,\"BuildingKey\":0,\"SpriteName\":23,\"AdditiveValue\":{\"Crimes\":4.0},\"Description\":\"Real-Time
+    Response System\",\"DistrictNeed\":2},{\"Key\":\"Speed +150%_4\",\"Name\":\"Speed
+    +150%\",\"Cost\":420000.0,\"BuildingKey\":0,\"SpriteName\":24,\"AdditiveValue\":{\"Car_speed\":1.2},\"Description\":\"Wash
+    the cars\",\"DistrictNeed\":2},{\"Key\":\"Arrest income X2_3\",\"Name\":\"Arrest
+    income X2\",\"Cost\":534000.0,\"BuildingKey\":1,\"SpriteName\":25,\"AdditiveValue\":{\"Building_income_multiplier\":2.0},\"Description\":\"Raise
+    fines\",\"DistrictNeed\":3},{\"Key\":\"Criminals + 7_5\",\"Name\":\"Criminals
+    + 5\",\"Cost\":618000.0,\"BuildingKey\":0,\"SpriteName\":23,\"AdditiveValue\":{\"Crimes\":5.0},\"Description\":\"Expand
+    surveillance zones\",\"DistrictNeed\":3},{\"Key\":\"Interegation Facility x1.5
+    income_1\",\"Name\":\"Interegation x1.5 income\",\"Cost\":656000.0,\"BuildingKey\":4,\"SpriteName\":28,\"AdditiveValue\":{\"Building_income_multiplier\":1.2},\"Description\":\"Legalize
+    harsh interrogation\",\"DistrictNeed\":3},{\"Key\":\"Police Station spead X2_1\",\"Name\":\"Police
+    Station spead X2\",\"Cost\":700000.0,\"BuildingKey\":2,\"SpriteName\":32,\"AdditiveValue\":{\"Building_interaction_speed\":2.0},\"Description\":\"Streamline
+    paperwork\",\"DistrictNeed\":3},{\"Key\":\"Crimes refresh spead X1.5_3\",\"Name\":\"Crimes
+    refresh spead X1.5\",\"Cost\":831000.0,\"BuildingKey\":0,\"SpriteName\":26,\"AdditiveValue\":{\"Crimes_refresh_rate\":1.5},\"Description\":\"Add
+    emergency operators\",\"DistrictNeed\":3},{\"Key\":\"Police Station Income X2_3\",\"Name\":\"Police
+    Station Income X2\",\"Cost\":964000.0,\"BuildingKey\":2,\"SpriteName\":27,\"AdditiveValue\":{\"Building_income_multiplier\":2.0},\"Description\":\"Create
+    fingerprint database\",\"DistrictNeed\":3},{\"Key\":\"Crimes refresh spead X1.5_4\",\"Name\":\"Crimes
+    refresh spead X1.5\",\"Cost\":1110000.0,\"BuildingKey\":0,\"SpriteName\":26,\"AdditiveValue\":{\"Crimes_refresh_rate\":1.5},\"Description\":\"Add
+    emergency operators\",\"DistrictNeed\":3},{\"Key\":\"Criminals + 6_6\",\"Name\":\"Criminals
+    + 6\",\"Cost\":1500000.0,\"BuildingKey\":0,\"SpriteName\":23,\"AdditiveValue\":{\"Crimes\":6.0},\"Description\":\"Expand
+    surveillance zones\",\"DistrictNeed\":3},{\"Key\":\"Interegation Facility x1.5
+    income_2\",\"Name\":\"Interegation x1.5 income\",\"Cost\":1960000.0,\"BuildingKey\":4,\"SpriteName\":28,\"AdditiveValue\":{\"Building_income_multiplier\":2.0},\"Description\":\"Legalize
+    harsh interrogation\",\"DistrictNeed\":3},{\"Key\":\"Interegation Facility x1.5
+    Spead_1\",\"Name\":\"Interegation x1.5 Spead\",\"Cost\":1960000.0,\"BuildingKey\":4,\"SpriteName\":31,\"AdditiveValue\":{\"Building_interaction_speed\":1.5},\"Description\":\"Legalize
+    harsh interrogation\",\"DistrictNeed\":3},{\"Key\":\"All Busses x2 Spead_1\",\"Name\":\"All
+    Busses x2 Spead\",\"Cost\":1960000.0,\"BuildingKey\":0,\"SpriteName\":29,\"AdditiveValue\":{\"All_busses_speed\":2.0},\"Description\":\"Legalize
+    harsh interrogation\",\"DistrictNeed\":3},{\"Key\":\"All Income x2_1\",\"Name\":\"All
+    Income x2\",\"Cost\":1960000.0,\"BuildingKey\":0,\"SpriteName\":30,\"AdditiveValue\":{\"Building_income_multiplier\":2.0},\"Description\":\"Legalize
+    harsh interrogation\",\"DistrictNeed\":3}]"

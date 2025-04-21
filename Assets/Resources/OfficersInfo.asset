@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!49 &4900000
+TextAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OfficersInfo
+  m_Script: '[{"Key":"Valdemar","OfficerType":1,"OfficerRarity":0,"SpriteName":0,"Description":null},{"Key":"SWAT
+    Commander","OfficerType":0,"OfficerRarity":0,"SpriteName":0,"Description":null},{"Key":"Sheriff
+    Gordon","OfficerType":2,"OfficerRarity":0,"SpriteName":0,"Description":null},{"Key":"Inspector
+    France","OfficerType":1,"OfficerRarity":0,"SpriteName":0,"Description":null},{"Key":"Ludwig","OfficerType":0,"OfficerRarity":0,"SpriteName":0,"Description":null},{"Key":"Frank
+    Andreas","OfficerType":2,"OfficerRarity":1,"SpriteName":1,"Description":null},{"Key":"Cole
+    Noir","OfficerType":1,"OfficerRarity":1,"SpriteName":1,"Description":null},{"Key":"Agent
+    Mamma","OfficerType":0,"OfficerRarity":1,"SpriteName":1,"Description":null},{"Key":"Captain
+    Lisbon","OfficerType":0,"OfficerRarity":1,"SpriteName":1,"Description":null},{"Key":"Bunny-cop","OfficerType":1,"OfficerRarity":1,"SpriteName":1,"Description":null},{"Key":"John
+    Hard","OfficerType":0,"OfficerRarity":2,"SpriteName":2,"Description":null},{"Key":"Cyber
+    Cop","OfficerType":0,"OfficerRarity":2,"SpriteName":2,"Description":null},{"Key":"Investigator
+    Holmes","OfficerType":1,"OfficerRarity":2,"SpriteName":2,"Description":null},{"Key":"Brian
+    Racer","OfficerType":2,"OfficerRarity":2,"SpriteName":2,"Description":null},{"Key":"Detective
+    Rust","OfficerType":1,"OfficerRarity":2,"SpriteName":2,"Description":null}]'

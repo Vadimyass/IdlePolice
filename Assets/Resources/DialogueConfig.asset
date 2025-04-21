@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!49 &4900000
+TextAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DialogueConfig
+  m_Script: '{"welcome_tutorial_1":[{"Number":1,"SpeakerName":"Sheriff Gordon","DialogPicture":41,"Phrase":"1"},{"Number":2,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"2"},{"Number":3,"SpeakerName":"Sheriff Gordon","DialogPicture":41,"Phrase":"3"},{"Number":4,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"4"},{"Number":5,"SpeakerName":"Sheriff Gordon","DialogPicture":41,"Phrase":"5"},{"Number":6,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"6"},{"Number":7,"SpeakerName":"Sheriff Gordon","DialogPicture":41,"Phrase":"7"},{"Number":8,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"8"},{"Number":9,"SpeakerName":"Sheriff Gordon","DialogPicture":41,"Phrase":"9"},{"Number":10,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"10"},{"Number":11,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"11"},{"Number":12,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"12"},{"Number":13,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"13"},{"Number":14,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"14"},{"Number":15,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"15"},{"Number":16,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"16"},{"Number":17,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"17"},{"Number":18,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"18"},{"Number":19,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"19"},{"Number":20,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"20"},{"Number":21,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"21"},{"Number":22,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"22"},{"Number":23,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"23"},{"Number":24,"SpeakerName":"Sheriff
+    Gordon","DialogPicture":41,"Phrase":"24"}]}'

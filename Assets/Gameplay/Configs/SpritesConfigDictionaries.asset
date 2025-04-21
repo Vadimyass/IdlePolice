@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18a8b0c364b14714b12fcc87c2134cca, type: 3}
+  m_Name: SpritesConfigDictionaries
+  m_EditorClassIdentifier: 
+  _boxSprites:
+    _keys: 000000000100000002000000
+    _values:
+    - ClosedSprite: {fileID: 21300000, guid: d7dd2e4f8e1b41b4084111d324617f29, type: 3}
+      OpenSprite: {fileID: 21300000, guid: fc34b867898f9dc4d8ecb73f4c55b96f, type: 3}
+      TopSprite: {fileID: 21300000, guid: ea9d69bfe307a9840aa2d9221bd91213, type: 3}
+    - ClosedSprite: {fileID: 21300000, guid: f22abbfa44feefc468ae8c02f271fcc1, type: 3}
+      OpenSprite: {fileID: 21300000, guid: 24fc7b4434877754b92a5b8bd65355e2, type: 3}
+      TopSprite: {fileID: 21300000, guid: 79787eee05e9c294fad9f3fc50856ff2, type: 3}
+    - ClosedSprite: {fileID: 21300000, guid: 0965ab215cabfc040b98396d4a4186f9, type: 3}
+      OpenSprite: {fileID: 21300000, guid: 9533297b3f168d644bc38988d959543d, type: 3}
+      TopSprite: {fileID: 21300000, guid: ac1ef9fa68a90aa4f90802e383d415ce, type: 3}

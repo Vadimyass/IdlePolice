@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2bd8d47f4e840c0b58a13e3f60a6930, type: 3}
+  m_Name: AudioConfig
+  m_EditorClassIdentifier: 
+  _audioReferenceData:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 010000000000000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+    _keys: 010000000000000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+    _values:
+    - {fileID: 8300000, guid: dcc9bb23eb9b68d48969a6ad61122c14, type: 3}
+    - {fileID: 8300000, guid: a0101304c9d13144fa9316a607a126f0, type: 3}
+    - {fileID: 8300000, guid: af09f41b040bc634b90d8ed86fb3b0e6, type: 3}
+    - {fileID: 8300000, guid: 454a2365636a05d4598aef61d1b0d78b, type: 3}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 8300000, guid: 82039fdcaeb20704789a09d7987e441f, type: 3}
+    - {fileID: 8300000, guid: 76d20fcbfe3089d459eaba947327d92e, type: 3}
+    - {fileID: 8300000, guid: e7ceba1798c074040a909ca370229a58, type: 3}
+    - {fileID: 8300000, guid: f046294db820d224d8a38882ddbc5625, type: 3}
+    - {fileID: 8300000, guid: 353d2e14f82db28458a66d7d2a2d71cc, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f519a1ea0f64cf0bb23e7a952bbafc3, type: 3}
+  m_Name: TutorialContextObjectConfig
+  m_EditorClassIdentifier: 
+  _tutorialObjectReferenceData:
+  - _assetReference:
+      m_AssetGUID: afe87f62d19132a458518caa5b22f6d3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _tutorialObjectType:
+      GuidAssignmentFailed: 0
+      GUID: 6888fea09ec54349be5b3c99a8ec519c
+      _typeNameAndAssembly: Tutorial.TutorialFingerTap, Assembly-CSharp
+      _suppressLogs: 0

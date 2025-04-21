@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844f54bc4e3c48c89af6e94cce22415e, type: 3}
+  m_Name: AgentsConfig
+  m_EditorClassIdentifier: 
+  _agents:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 01000000020000000300000004000000
+    _keys: 01000000020000000300000004000000
+    _values:
+    - {fileID: 7276452691339809197, guid: 25bc97bf89bff421592844965d04649e, type: 3}
+    - {fileID: 1926105656317622699, guid: 4068db358df0a412e9497d05e35d3cc2, type: 3}
+    - {fileID: 9193943619452360713, guid: 5558a106caf7cd141af9a259e0416da7, type: 3}
+    - {fileID: 8151350034989066642, guid: 195f919c2976d09418a111ac5518ac08, type: 3}
+  _boxPrefab: {fileID: 8020055811665882853, guid: 366aae2932d625f4690a95529e27ee87, type: 3}
